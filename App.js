@@ -2,8 +2,10 @@ import logo from './logo.svg';
 import './App.css';
 
 function App() {
-  
-    document.write("abdulllah");
+  return( 
+    document.write("abdullah")
+  );
+   
   
 }
 
